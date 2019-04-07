@@ -1,6 +1,5 @@
 # Project: OCR (Optical Character Recognition) 
 
 ### Output folder
-
-The output directory contains analysis output, processed datasets, logs, or other processed things.
-
+output.csv holds the values of the name of the text file, the file's text, and all the garbage words in the document.
+It is the output of part 3
