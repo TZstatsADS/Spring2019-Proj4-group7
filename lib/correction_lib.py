@@ -58,7 +58,7 @@ All_Ground_Truth_Words = list()
 
 for FileName in File_Names:
     File_Dir = Ground_Truth_Path + FileName + ".txt"
-    with open(File_Dir, 'r') as file:
+    with open(File_Dir, 'r',encoding='UTF-8') as file:
         file_Content = file.read()
         uncleaned_word = file_Content.split()
         All_Ground_Truth_Words += list(map(clean_word,uncleaned_word))
