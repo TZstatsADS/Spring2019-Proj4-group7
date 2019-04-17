@@ -1,4 +1,4 @@
-# Project: OCR (Optical Character Recognition) 
+﻿# Project: OCR (Optical Character Recognition) 
 
 ![image](figs/intro.png)
 
@@ -24,6 +24,7 @@ Term: Spring 2019
 + Shen, Yu: Presenter, finsh and debug correction part with He, Yuting and Ma, Qiaozhen, write README.md.
 + He, Yuting: read and understand the paper, finsh and debug correction part with Shen, Yu and Ma, Qiaozhen.
 + Ma, Qiaozhen: read and understand the paper, finsh and debug correction part with Shen, Yu and He, Yuting.
++ Zeng, Yiyang: read and understand the paper, finsh and debug correction part with other team members.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
