@@ -25,6 +25,7 @@ Term: Spring 2019
 + He, Yuting: read and understand the paper, finsh and debug correction part with Shen, Yu and Ma, Qiaozhen.
 + Ma, Qiaozhen: read and understand the paper, finsh and debug correction part with Shen, Yu and He, Yuting.
 + Zeng, Yiyang: read and understand the paper, finsh and debug correction part with other team members.
++ Lin, Nelson: read and understood paper. Wrote part3 - D1 paper implementation. debugged with correction with other team members
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
