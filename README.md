@@ -1,4 +1,4 @@
-ï»¿# Project: OCR (Optical Character Recognition) 
+ï»?# Project: OCR (Optical Character Recognition) 
 
 ![image](figs/intro.png)
 
@@ -21,9 +21,9 @@ Term: Spring 2019
 
 	
 **Contribution statement**: 
-+ Shen, Yu: Presenter, finsh and debug correction part with He, Yuting and Ma, Qiaozhen, write README.md.
-+ He, Yuting: read and understand the paper, finsh and debug correction part with Shen, Yu and Ma, Qiaozhen.
-+ Ma, Qiaozhen: read and understand the paper, finsh and debug correction part with Shen, Yu and He, Yuting.
++ Shen, Yu: Major contributor, Presenter, finsh and debug correction part with He, Yuting and Ma, Qiaozhen, write README.md.
++ He, Yuting: Major contributor, read and understand the paper, finsh and debug correction part with Shen, Yu and Ma, Qiaozhen.
++ Ma, Qiaozhen: Major contributor, read and understand the paper, finsh and debug correction part with Shen, Yu and He, Yuting.
 + Zeng, Yiyang: read and understand the paper, finsh and debug correction part with other team members.
 + Lin, Nelson: read and understood paper. Wrote part3 - D1 paper implementation. debugged with correction with other team members
 
